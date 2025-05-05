@@ -1,6 +1,8 @@
 ## Hey there 👋 I am Samuel Obazee (Samthewebguy)
 
-🧑‍💻 I’m passionate about design, coding, and the web space
-🌱 I’m currently learning Javascript
-👯 I’m looking to collaborate on web development project
-📩 How to reach me: reachsamthewebguy@gmail.com
+Website X Frontend Developer for Startups & Global Brands | I build scalable Frontend Solutions that turn ideas into revenue-driving products.
+
+🧑‍💻 Passionate about design, coding, and the web space
+🌱 Currently learning Javascript
+👯 Looking to collaborate on new and existing project
+📩 reachsamthewebguy@gmail.com
