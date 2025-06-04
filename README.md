@@ -1,6 +1,6 @@
 ## Hey there 👋 I am Samuel Obazee (Samthewebguy)
 
-Website X Frontend Developer for Startups & Global Brands | I build scalable Frontend Solutions that turn ideas into revenue-driving products.
+Website & Frontend Developer | Helping startups & global brands build converting and revenue-driving websites.
 
 🧑‍💻 Passionate about design, coding, and the web space
 🌱 Currently learning Javascript
