@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Samuel Obazee (SAMTHEWEBGUY)</h1>
-<h3 align="center">🧑‍💻 Passionate about design, coding, and the web space 🌐</h3>
+<h1 align="center">Hi, I'm Samuel Obazee</h1>
+<h3 align="center">Passionate about design, coding, and the web space.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samthewebguy" alt="samthewebguy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/technioo" target="blank"><img src="https://img.shields.io/twitter/follow/technioo?logo=twitter&style=for-the-badge" alt="technioo" /></a> </p>
 
-- 🔭 I’m currently working on **more personal projects**
+- I’m currently working on **more projects for personal development**
 
-- 🚀 I’m currently learning **and building more with Javascript**
+- I’m currently learning **and building more with Javascript**
 
-- 💬 Ask me about **my journey in frontend development**
+- Ask me about **collaboration and my journey in frontend development**
 
-- 📩 How to reach me: **reachsamthewebguy@gmail.com**
+- How to reach me: **reachsamthewebguy@gmail.com**
 
-- 😁 Fun fact: **I think i'm getting this code thing right**
+- Fun fact: **I think i'm getting this code thing right**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
