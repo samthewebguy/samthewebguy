@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/samthewebguy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/samthewebguy?theme=dark" />
+      <img alt="samthewebguy's commit history" src="https://commit-history.com/embed/samthewebguy" />
+    </picture>
+  </a>
+</div>
+
 <h1 align="center">Hi, I'm Samuel Obazee</h1>
 <h3 align="center">Passionate about design, coding, and the web space.</h3>
 
