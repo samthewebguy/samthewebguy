@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋 My name is Folorunsho Ahmed</h1>
+<h1 align="center">Hi 👋 My name is Samuel Obazee</h1>
 <h3 align="left">Passionate about design, coding, and the web space.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samthewebguy" alt="samthewebguy" /></a> </p>
