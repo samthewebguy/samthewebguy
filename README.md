@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samthewebguy" alt="samthewebguy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ReachSAMonX" target="blank"><img src="https://img.shields.io/twitter/follow/technioo?logo=twitter&style=for-the-badge" alt="technioo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ReachSAMonX" target="blank"><img src="https://img.shields.io/twitter/follow/ReachSAMonX?logo=twitter&style=for-the-badge" alt="ReachSAMonX" /></a> </p>
 
-- 🚀 I’m currently working on **more projects**
+- 🚀 I’m currently working on more projects
 
-- 🧠 Ask me about **collaboration and my journey in tech**
+- 🧠 Ask me about collaboration and my journey in tech
 
 - ✉️ You can contact me at: **reachsamthewebguy@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://twitter.com/ReachSAMonX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technioo" height="30" width="40" /></a>
+<a href="https://twitter.com/ReachSAMonX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ReachSAMonX" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samthewebguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samthewebguy" height="30" width="40" /></a>
 <a href="https://instagram.com/samthewebguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samthewebguy" height="30" width="40" /></a>
 </p>
