@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samthewebguy" alt="samthewebguy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/technioo" target="blank"><img src="https://img.shields.io/twitter/follow/technioo?logo=twitter&style=for-the-badge" alt="technioo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ReachSAMonX" target="blank"><img src="https://img.shields.io/twitter/follow/technioo?logo=twitter&style=for-the-badge" alt="technioo" /></a> </p>
 
 - 🚀 I’m currently working on **more projects**
 
