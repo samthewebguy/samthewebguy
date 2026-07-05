@@ -7,8 +7,8 @@
   </a>
 </div>
 
-<h1 align="center">Hi, I'm Samuel Obazee</h1>
-<h3 align="center">Passionate about design, coding, and the web space.</h3>
+<h1 align="center">Hi 👋 My name is Folorunsho Ahmed</h1>
+<h3 align="left">Passionate about design, coding, and the web space.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samthewebguy" alt="samthewebguy" /></a> </p>
 
@@ -20,7 +20,7 @@
 
 - Ask me about **collaboration and my journey in frontend development**
 
-- How to reach me: **reachsamthewebguy@gmail.com**
+- You can contact me at: **reachsamthewebguy@gmail.com**
 
 - Fun fact: **I think i'm getting this code thing right**
 
